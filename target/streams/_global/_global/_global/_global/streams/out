@@ -1,0 +1,3 @@
+[debug] [watch] [rabbitmq / Compile / run] Found inputs: C:\Users\madhupa\Downloads\ScalaBookStore\rabbitMQ\*.{java,scala},C:\Users\madhupa\Downloads\ScalaBookStore\rabbitMQ\src\main\java\**\*.{java,scala},C:\Users\madhupa\Downloads\ScalaBookStore\rabbitMQ\src\main\resources\**\*,C:\Users\madhupa\Downloads\ScalaBookStore\rabbitMQ\src\main\scala\**\*.{java,scala},C:\Users\madhupa\Downloads\ScalaBookStore\rabbitMQ\src\main\scala-2.13\**\*.{java,scala}
+[info] 1. Monitoring source files for rabbitmq/run...
+[info]    Press <enter> to interrupt or '?' for more options.
