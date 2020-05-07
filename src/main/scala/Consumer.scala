@@ -7,6 +7,7 @@ object Consumer {
   def main(argv: Array[String]) {
     val factory = new ConnectionFactory()
     factory.setHost("localhost")
+
     val connection = factory.newConnection()
     val channel = connection.createChannel()
     channel.queueDeclare(QUEUE_NAME, false, false, false, null)
